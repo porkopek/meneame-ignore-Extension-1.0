@@ -1,0 +1,10 @@
+body,
+.ignore-user-button {
+  background-color: transparent;
+  border-radius: 50%;
+  height: 30px;
+  padding: 0.5em;
+}
+.ignore-user-button:hover {
+  background-color: rgba(200, 0, 0, 0.1);
+}
