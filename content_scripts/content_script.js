@@ -10,7 +10,7 @@ const applyUserStyle = (ignoredUsers) => {
     const isIgnored = ignoredUsers.some((user) =>
       e.innerText.toLowerCase().includes(user.toLowerCase())
     );
-    e.style.display = isIgnored ? 'none' : 'initial';
+    e.style.display = isIgnored ? 'none' : 'block';
   });
 };
 

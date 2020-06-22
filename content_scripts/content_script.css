@@ -1,4 +1,3 @@
-body,
 .ignore-user-button {
   background-color: transparent;
   border-radius: 50%;
@@ -8,3 +7,98 @@ body,
 .ignore-user-button:hover {
   background-color: rgba(200, 0, 0, 0.1);
 }
+/* *** MENEAME *** 
+* {
+  border: none !important;
+}
+:root {
+  --main-bg: 51, 103, 214;
+  --main-inverse-bg: 0, 255, 0;
+  --light-text: rgba(255, 255, 255, 0.8);
+  --dark-text: rgba(0, 0, 0, 0.8);
+  --heading-font: Quattrocento;
+  --main-font: Montserrat;
+  --heading-font-size: 26px;
+}
+body {
+  font-family: var(--main-font) !important;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--heading-font) !important;
+  font-weight: bold !important;
+}
+.news-shakeit,
+.sidebox-rounded.orange .header,
+.menealo a,
+.sidebox.brown .header,
+.header-top-wrapper,
+#toplink a.footer {
+  background-image: none !important;
+  background-color: rgb(var(--main-bg)) !important;
+}
+.news-shakeit .votes,
+.news-shakeit .clics {
+  background-color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.header-menu01 a.submit_new_post,
+.header-menu01 a.submit_new_article,
+#toplink h1 a,
+.news-details a:link,
+.news-details a:visited,
+.news-tags,
+.news-tags a:link,
+.news-tags a:visited,
+.news-details button,
+.news-details a i,
+.news-details button i,
+.news-details span.votes-up i,
+.news-details span.votes-anonymous i,
+.news-details span.votes-down i,
+.sidebox .votes span,
+.sidebox .clics span,
+.sidebox-rounded div.finished,
+.sidebox-rounded .show-responses,
+.sidebox .mainsites a,
+.news-details span.karma-letter,
+.widget-popular-links-slider .link-info a.author,
+select,
+.news-shakeit,
+.news-shakeit .votes a,
+.news-submitted a,
+h2,
+#header-top ul li,
+ul#userinfo a.notifications span,
+#header-top ul#userinfo li a,
+.menealo a,
+.menealo span {
+  color: rgb(var(--main-bg)) !important;
+}
+#header-top a.sub-name {
+  color: var(--dark-text) !important;
+}
+div#header-top-bar {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1) !important;
+}
+ul#userinfo a.notifications span {
+  border: 1px solid rgb(var(--main-bg)) !important;
+}
+h2 {
+  font-size: var(--heading-font-size) !important;
+}
+
+#toplink,
+.news-details a.comments,
+.news-summary .warn,
+.story-blog .warn {
+  background-color: rgba(var(--main-bg), 0.1) !important;
+}
+#header-top .logo-mnm img {
+  background-color: rgb(var(--main-inverse-bg));
+  border: 3px solid transparent !important;
+  border-radius: 4px !important;
+}
+*/
